@@ -20,6 +20,7 @@
   * Kelly probably has the knowledge to build everything on Savio now
   * Savio might not have the memory available to us that Remus does
 * Determine where data for the runs will be uploaded (abacus?) 
+
 **Madicken**
 * Document analysis scripts so they're usable for Vanessa and Emily
   * Most likely done in Jupyter notebooks
@@ -30,8 +31,8 @@
 * Outline the characterization paper in repo.
  * My paper repo? 
 * QUESTION: Access to private caskmodels repo? 
-**Vanessa**
-**Emily**
+
+**Vanessa & Emily**
 * Get licenses for  advantg, exnihilo, and full stack (scale, MCNP) 
   on your machines (to make sure it works)
 * clone my analysis script repo
@@ -41,7 +42,7 @@
 
 ### Omega methods characterization paper
 
-**Repo Link**: 
+**Repo Link**: https://github.com/munkm/Papers/tree/master/methods_char
 
 Items:
 * To which journal do we want to submit? 
