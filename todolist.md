@@ -33,8 +33,7 @@
 * QUESTION: Access to private caskmodels repo? 
 
 **Vanessa & Emily**
-* Get licenses for  advantg, exnihilo, and full stack (scale, MCNP) 
-  on your machines (to make sure it works)
+* GitHub tutorials on cloning, forking, pull requests
 * clone my analysis script repo
 * clone caskmodels repo
 * try to make a parametric study of one of the example problems in
