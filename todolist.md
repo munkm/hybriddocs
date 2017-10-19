@@ -8,8 +8,8 @@
 **Useful links:**
 * Caskmodels repo: https://github.com/munkm/caskmodels
 * Private caskmodels repo: https://github.com/munkm/caskmodels_private
-* Advantg w/ omega methods:
-* Exnihilo w/ omega methods:
+* Advantg w/ omega methods:  https://code-int.ornl.gov/m15/advantg
+* Exnihilo w/ omega methods: https://code-int.ornl.gov/m15/exnihilo
 
 ***
 
@@ -45,6 +45,7 @@
 
 Items:
 * To which journal do we want to submit? 
+  * A: NSE
 
 ### Omega methods in application problems paper
 
