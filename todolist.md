@@ -10,6 +10,8 @@
 * Private caskmodels repo: https://github.com/munkm/caskmodels_private
 * Advantg w/ omega methods:  https://code-int.ornl.gov/m15/advantg
 * Exnihilo w/ omega methods: https://code-int.ornl.gov/m15/exnihilo
+* Repo with analysis scripts and documentation how to use them:
+  https://github.com/munkm/thesiscode
 
 ***
 
@@ -24,12 +26,17 @@
 **Madicken**
 * Document analysis scripts so they're usable for Vanessa and Emily
   * Most likely done in Jupyter notebooks
+  * STARTED at:
+    https://github.com/munkm/hybriddocs/blob/master/analysis_directions.md
 * Put link to custom advantg and exnihilo repos here, so cloning is
   straightforward
+  * DONE pre-meeting Oct 19
 * Upload the exact configurations of the test problems into a branch of
   caskmodels
+  * DONE pre-meeting Oct 19 at
+    https://github.com/munkm/caskmodels/tree/thesis_probs
 * Outline the characterization paper in repo.
- * My paper repo? 
+ * STARTED pre-meeting Oct 19, still more to do. 
 * QUESTION: Access to private caskmodels repo? 
 
 **Vanessa & Emily**
