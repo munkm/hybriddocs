@@ -31,10 +31,8 @@
 * Put link to custom advantg and exnihilo repos here, so cloning is
   straightforward
   * DONE pre-meeting Oct 19
-* Upload the exact configurations of the test problems into a branch of
-  caskmodels
-  * DONE pre-meeting Oct 19 at
-    https://github.com/munkm/caskmodels/tree/thesis_probs
+* Upload the exact configurations of the test problems into differet folders on
+  master in the caskmodels repo. 
 * Outline the characterization paper in repo.
  * STARTED pre-meeting Oct 19, still more to do. 
 * QUESTION: Access to private caskmodels repo? 
